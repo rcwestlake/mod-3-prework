@@ -1,5 +1,5 @@
-require('es6-promise');
 'use strict';
+require('es6-promise');
 
 const promise = new Promise(function (fulfill, reject) {
   setTimeout(function () {

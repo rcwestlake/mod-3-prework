@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/rcwestlake/mod-3-prework#readme",
   "devDependencies": {
-    "es6-promise": "^4.0.5"
+    "es6-promise": "^4.0.5",
+    "q": "^1.4.1"
   }
 }

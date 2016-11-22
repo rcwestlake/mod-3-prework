@@ -1,0 +1,22 @@
+{
+  "name": "promises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rcwestlake/mod-3-prework.git"
+  },
+  "author": "Ryan C Westlake",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rcwestlake/mod-3-prework/issues"
+  },
+  "homepage": "https://github.com/rcwestlake/mod-3-prework#readme",
+  "devDependencies": {
+    "es6-promise": "^4.0.5"
+  }
+}
